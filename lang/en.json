@@ -8,5 +8,8 @@
     "Forbidden.": "Forbidden.",
     "Not Found.": "Not Found.",
     "Method Not Allowed.": "Method Not Allowed.",
-    "Server Error.": "Server Error."
+    "Server Error.": "Server Error.",
+    "Account created successfully.": "Account created successfully.",
+    "Login success.": "Login success.",
+    "User profile retrieved successfully.": "User profile retrieved successfully."
 }

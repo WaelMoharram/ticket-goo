@@ -8,5 +8,8 @@
     "Forbidden.": "ممنوع الوصول.",
     "Not Found.": "غير موجود.",
     "Method Not Allowed.": "الطريقة غير مسموحة.",
-    "Server Error.": "خطأ في الخادم."
+    "Server Error.": "خطأ في الخادم.",
+    "Account created successfully.": "تم إنشاء الحساب بنجاح.",
+    "Login success.": "تم تسجيل الدخول بنجاح.",
+    "User profile retrieved successfully.": "تم استرجاع بيانات المستخدم بنجاح."
 }

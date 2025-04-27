@@ -4,7 +4,7 @@ use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Route;
 
 
-Route::prefix('website')->name('website.')->group( function () {
+Route::prefix('v1/website')->name('website.')->group( function () {
     Route::post('/login', [\App\Http\Controllers\V1\Website\AuthController::class, 'login'])
         ->middleware('throttle:5,1');
 

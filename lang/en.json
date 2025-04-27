@@ -1,0 +1,12 @@
+{
+    "Login success": "Login success.",
+    "Invalid credentials.": "Invalid credentials.",
+    "Logout successful.": "Logout successful.",
+    "Token refreshed successfully.": "Token refreshed successfully.",
+    "The given data was invalid.": "The given data was invalid.",
+    "Unauthorized.": "Unauthorized.",
+    "Forbidden.": "Forbidden.",
+    "Not Found.": "Not Found.",
+    "Method Not Allowed.": "Method Not Allowed.",
+    "Server Error.": "Server Error."
+}

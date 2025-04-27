@@ -1,0 +1,12 @@
+{
+    "Login success": "تم تسجيل الدخول بنجاح.",
+    "Invalid credentials.": "بيانات الدخول غير صحيحة.",
+    "Logout successful.": "تم تسجيل الخروج بنجاح.",
+    "Token refreshed successfully.": "تم تحديث التوكن بنجاح.",
+    "The given data was invalid.": "البيانات المدخلة غير صحيحة.",
+    "Unauthorized.": "غير مصرح لك.",
+    "Forbidden.": "ممنوع الوصول.",
+    "Not Found.": "غير موجود.",
+    "Method Not Allowed.": "الطريقة غير مسموحة.",
+    "Server Error.": "خطأ في الخادم."
+}
